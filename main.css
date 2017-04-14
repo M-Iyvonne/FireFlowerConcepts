@@ -1,0 +1,23 @@
+.fireFlower {
+  background-image: url("images/fireFlower.jpg");
+  text-align: center;
+  width: 100%;
+/*  height: 100%;*/
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50%;
+}
+
+/*colors #EFDOCA, #929487, #B5727C, #ADACB5, #A8818E
+
+Fire Flower colors #6B0103 #991205 #F8833A #8A6163
+font-family: 'Great Vibes', cursive;*/
+
+.fire {
+	font-family: 'Great Vibes', cursive;
+	color: white;
+	font-size: 12em;
+	background-color: #6B0103;
+	margin-top: 20%;
+}
